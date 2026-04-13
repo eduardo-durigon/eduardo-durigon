@@ -1,7 +1,9 @@
-# Hi, I’m Eduardo Durigon 👋
+## Hi, I’m Eduardo Durigon 👋
 
-Former Chef | Career Switcher | Aspiring Cybersecurity Analyst  
-Currently studying: CompTIA A+
-Practicing labs on TryHackMe and documenting my learning journey  
+Career switcher transitioning into IT and cybersecurity.
 
-Goal: Transition into IT & cybersecurity and share my progress
+- 🎓 CompTIA Tech+ certified  
+- 📚 Currently studying CompTIA A+  
+- 🧪 Practicing hands-on labs and building a strong foundation  
+
+🎯 Goal: Land an IT Support / Help Desk role and grow into cybersecurity.
