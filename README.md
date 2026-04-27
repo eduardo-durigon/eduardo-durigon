@@ -25,9 +25,3 @@ I'm transitioning into IT and cybersecurity, building hands-on skills through la
 ## 🎯 Goal
 
 Land an **IT Support / Help Desk role** and grow into cybersecurity.
-
----
-
-## 🚀 Daily Work
-
-Labs • Troubleshooting • Study • Consistency
