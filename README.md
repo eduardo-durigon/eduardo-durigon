@@ -19,7 +19,6 @@ I'm transitioning into IT and cybersecurity, building hands-on skills through la
 * 🖥️ Troubleshooting Labs (Mac & Windows)
 * 🐧 Linux Labs (2026)
 * 🐍 Python Labs (2026)
-* 📘 CompTIA Tech+ Notes
 
 ---
 
