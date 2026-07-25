@@ -1,27 +1,46 @@
 # 👋 Hi, I'm Eduardo
 
-I'm transitioning into IT and cybersecurity, building hands-on skills through labs, projects, and certifications.
+I'm building a career in IT, developing practical skills through certifications, hands-on labs, and documented learning.
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Goal
 
-* CompTIA A+ (in progress)
-* Linux fundamentals
-* Python for automation
-* IT support & troubleshooting
+Secure a remote IT Support / Help Desk role while building the technical foundation for a long-term career in cloud cybersecurity.
 
 ---
 
-## 📂 Projects
+## 📚 Currently Studying
 
-* 🔐 Cybersecurity Journal
-* 🖥️ Troubleshooting Labs (Mac & Windows)
-* 🐧 Linux Labs (2026)
-* 🐍 Python Labs (2026)
+- 🔴 CompTIA A+
+- 🖥️ Windows Administration
+- 🐧 Linux Fundamentals
+- 🐍 Python for IT Automation
 
 ---
 
-## 🎯 Goal
+## 📂 Featured Projects
 
-Land an **IT Support / Help Desk role** and grow into cybersecurity.
+- 🔐 Cybersecurity Journal
+- 🖥️ Windows & macOS Troubleshooting
+- 🌐 Networking Labs
+- 🐧 Linux Labs
+- 🐍 Python Labs
+
+---
+
+## 🚀 Career Roadmap
+
+✔️ CompTIA Tech+
+
+🔄 CompTIA A+
+
+➡️ Help Desk
+
+➡️ Network+
+
+➡️ Cloud Administration
+
+➡️ Cloud Security
+
+➡️ Senior Cloud Cybersecurity Engineer
