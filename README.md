@@ -28,19 +28,3 @@ Secure a remote IT Support / Help Desk role while building the technical foundat
 - 🐍 Python Labs
 
 ---
-
-## 🚀 Career Roadmap
-
-✔️ CompTIA Tech+
-
-🔄 CompTIA A+
-
-➡️ Help Desk
-
-➡️ Network+
-
-➡️ Cloud Administration
-
-➡️ Cloud Security
-
-➡️ Senior Cloud Cybersecurity Engineer
