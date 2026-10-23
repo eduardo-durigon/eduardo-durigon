@@ -12,7 +12,6 @@ Secure a remote IT Support / Help Desk role while building the technical foundat
 
 ## 📚 Currently Studying
 
-- 🔴 CompTIA A+
 - 🖥️ Windows Administration
 - 🐧 Linux Fundamentals
 - 🐍 Python for IT Automation
